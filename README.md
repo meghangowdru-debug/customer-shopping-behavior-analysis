@@ -4,12 +4,12 @@
 
 ### End-to-End Data Analytics Portfolio Project
 
-**Python · Pandas · PostgreSQL · SQL · Power BI · Jupyter**
+**Python · Pandas · MySQL · SQL · Power BI · Jupyter**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-SQL-4169E1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
@@ -32,7 +32,7 @@ Turning raw customer shopping data into meaningful business insights through
 | **Records** | 3,900 purchases |
 | **Columns** | 18 |
 | **Python** | Pandas, NumPy |
-| **Database** | PostgreSQL |
+| **Database** | MySQL |
 | **Visualization** | Power BI |
 | **SQL Analysis** | Revenue, customers, products, subscriptions, discounts |
 | **Deliverables** | Python notebook, SQL queries, Power BI dashboard, report and presentation |
@@ -71,7 +71,7 @@ Exploratory Data Analysis
 Feature Engineering
        │
        ▼
-PostgreSQL Database
+MySQL Database
        │
        ▼
 SQL Business Analysis
@@ -92,7 +92,7 @@ Business Insights & Recommendations
 | 🐍 **Python** | Data cleaning and analysis |
 | 🐼 **Pandas** | Data manipulation |
 | 🔢 **NumPy** | Numerical operations |
-| 🐘 **PostgreSQL** | Data storage and querying |
+| 🐬 **MySQL** | Data storage and querying |
 | 🧮 **SQL** | Business analysis |
 | 📊 **Power BI** | Interactive dashboard |
 | 📓 **Jupyter Notebook** | Python analysis workflow |
@@ -138,7 +138,7 @@ The Python notebook performs the main data preparation and exploratory analysis.
 - Created an `age_group` feature
 - Created a `purchase_frequency_days` feature
 - Checked redundancy between discount and promotional-code fields
-- Prepared the cleaned data for PostgreSQL analysis
+- Prepared the cleaned data for MySQL analysis
 
 ### Notebook
 
@@ -146,9 +146,9 @@ The Python notebook performs the main data preparation and exploratory analysis.
 
 ---
 
-## 🐘 2. PostgreSQL & SQL Analysis
+## 🐬 2. MySQL & SQL Analysis
 
-The cleaned data was loaded into PostgreSQL for structured business analysis.
+The cleaned data was loaded into MySQL for structured business analysis.
 
 ### Business Questions Answered
 
@@ -266,7 +266,7 @@ Open:
 customer_behavior_sql_queries.sql
 ```
 
-Run the queries in PostgreSQL after loading the cleaned dataset.
+Run the queries in MySQL after loading the cleaned dataset.
 
 ### 4. Power BI
 
@@ -317,7 +317,7 @@ in Power BI Desktop to explore the dashboard.
 
 **Tools**
 - Python
-- PostgreSQL
+- MySQL
 - Jupyter
 - Git & GitHub
 
